@@ -1,0 +1,405 @@
+Folder PATH listing
+Volume serial number is D6AE-ACA8
+C:.
+ÃÄÄÄ.dart_tool
+³   ÃÄÄÄchrome-device
+³   ³   ÀÄÄÄDefault
+³   ³       ÃÄÄÄAutofillStrikeDatabase
+³   ³       ÃÄÄÄblob_storage
+³   ³       ³   ÃÄÄÄ03070ce4-8ed2-4250-8033-4658b42aab58
+³   ³       ³   ÃÄÄÄ10d4be8d-8960-4e3a-b942-fe62f0ec82f5
+³   ³       ³   ÃÄÄÄ1cb4f7db-23b3-4556-8359-bc0fc6585c96
+³   ³       ³   ÃÄÄÄ269a0474-aa54-47b4-8446-82d82a36044d
+³   ³       ³   ÃÄÄÄ2f1ecc0b-e2e6-4185-abde-4adaa2e2164d
+³   ³       ³   ÃÄÄÄ418d21c2-d1b2-46cb-970e-dea4d8d99491
+³   ³       ³   ÃÄÄÄ542aad98-5bb0-4eca-bae2-cb767477800f
+³   ³       ³   ÃÄÄÄ7953922b-b414-4b3f-8c76-57e42fa4b999
+³   ³       ³   ÃÄÄÄ7fd1dbdc-b2c7-44a4-8759-62f9439b854e
+³   ³       ³   ÃÄÄÄa8229b93-e7d4-47dd-b21d-66af5b6d9c12
+³   ³       ³   ÃÄÄÄa8812d97-638d-4acb-930b-b57059f7579b
+³   ³       ³   ÃÄÄÄcc4358ad-e287-43d9-8165-dcc84a46ce60
+³   ³       ³   ÀÄÄÄf72706f1-226f-4e31-b270-d67417c45056
+³   ³       ÃÄÄÄBudgetDatabase
+³   ³       ÃÄÄÄClientCertificates
+³   ³       ÃÄÄÄcommerce_subscription_db
+³   ³       ÃÄÄÄdiscounts_db
+³   ³       ÃÄÄÄDownload Service
+³   ³       ³   ÃÄÄÄEntryDB
+³   ³       ³   ÀÄÄÄFiles
+³   ³       ÃÄÄÄExtension Rules
+³   ³       ÃÄÄÄExtension Scripts
+³   ³       ÃÄÄÄExtension State
+³   ³       ÃÄÄÄFeature Engagement Tracker
+³   ³       ³   ÃÄÄÄAvailabilityDB
+³   ³       ³   ÀÄÄÄEventDB
+³   ³       ÃÄÄÄGCM Store
+³   ³       ³   ÀÄÄÄEncryption
+³   ³       ÃÄÄÄIndexedDB
+³   ³       ³   ÃÄÄÄhttp_localhost_60774.indexeddb.leveldb
+³   ³       ³   ÀÄÄÄhttp_localhost_60820.indexeddb.leveldb
+³   ³       ÃÄÄÄLocal Storage
+³   ³       ³   ÀÄÄÄleveldb
+³   ³       ÃÄÄÄNetwork
+³   ³       ÃÄÄÄoptimization_guide_hint_cache_store
+³   ³       ÃÄÄÄparcel_tracking_db
+³   ³       ÃÄÄÄPersistentOriginTrials
+³   ³       ÃÄÄÄSafe Browsing Network
+³   ³       ÃÄÄÄSegmentation Platform
+³   ³       ³   ÃÄÄÄSegmentInfoDB
+³   ³       ³   ÃÄÄÄSignalDB
+³   ³       ³   ÀÄÄÄSignalStorageConfigDB
+³   ³       ÃÄÄÄService Worker
+³   ³       ³   ÃÄÄÄDatabase
+³   ³       ³   ÀÄÄÄScriptCache
+³   ³       ³       ÀÄÄÄindex-dir
+³   ³       ÃÄÄÄSession Storage
+³   ³       ÃÄÄÄSessions
+³   ³       ÃÄÄÄShared Dictionary
+³   ³       ³   ÀÄÄÄcache
+³   ³       ³       ÀÄÄÄindex-dir
+³   ³       ÃÄÄÄshared_proto_db
+³   ³       ³   ÀÄÄÄmetadata
+³   ³       ÃÄÄÄSite Characteristics Database
+³   ³       ÃÄÄÄSync Data
+³   ³       ³   ÀÄÄÄLevelDB
+³   ³       ÀÄÄÄWebStorage
+³   ÃÄÄÄdartpad
+³   ÀÄÄÄextension_discovery
+ÃÄÄÄ.idea
+³   ÃÄÄÄlibraries
+³   ÀÄÄÄrunConfigurations
+ÃÄÄÄandroid
+³   ÃÄÄÄ.gradle
+³   ³   ÀÄÄÄnb-cache
+³   ³       ÀÄÄÄtrust
+³   ÃÄÄÄapp
+³   ³   ÀÄÄÄsrc
+³   ³       ÃÄÄÄdebug
+³   ³       ÃÄÄÄmain
+³   ³       ³   ÃÄÄÄjava
+³   ³       ³   ³   ÀÄÄÄio
+³   ³       ³   ³       ÀÄÄÄflutter
+³   ³       ³   ³           ÀÄÄÄplugins
+³   ³       ³   ÃÄÄÄkotlin
+³   ³       ³   ³   ÀÄÄÄcom
+³   ³       ³   ³       ÀÄÄÄexample
+³   ³       ³   ³           ÀÄÄÄcar_rental_app_two
+³   ³       ³   ÀÄÄÄres
+³   ³       ³       ÃÄÄÄdrawable
+³   ³       ³       ÃÄÄÄdrawable-v21
+³   ³       ³       ÃÄÄÄmipmap-hdpi
+³   ³       ³       ÃÄÄÄmipmap-mdpi
+³   ³       ³       ÃÄÄÄmipmap-xhdpi
+³   ³       ³       ÃÄÄÄmipmap-xxhdpi
+³   ³       ³       ÃÄÄÄmipmap-xxxhdpi
+³   ³       ³       ÃÄÄÄvalues
+³   ³       ³       ÀÄÄÄvalues-night
+³   ³       ÀÄÄÄprofile
+³   ÀÄÄÄgradle
+³       ÀÄÄÄwrapper
+ÃÄÄÄassets
+ÃÄÄÄbuild
+³   ÃÄÄÄ033d3bac7eb39ae48b0fe92e22b125e9
+³   ÃÄÄÄflutter_assets
+³   ³   ÃÄÄÄassets
+³   ³   ÃÄÄÄfonts
+³   ³   ÃÄÄÄpackages
+³   ³   ³   ÃÄÄÄcupertino_icons
+³   ³   ³   ³   ÀÄÄÄassets
+³   ³   ³   ÀÄÄÄflutter_map
+³   ³   ³       ÀÄÄÄlib
+³   ³   ³           ÀÄÄÄassets
+³   ³   ÀÄÄÄshaders
+³   ÀÄÄÄwindows
+³       ÀÄÄÄx64
+³           ÃÄÄÄCMakeFiles
+³           ³   ÃÄÄÄ3.29.5-msvc4
+³           ³   ³   ÃÄÄÄCompilerIdCXX
+³           ³   ³   ³   ÃÄÄÄDebug
+³           ³   ³   ³   ³   ÀÄÄÄCompilerIdCXX.tlog
+³           ³   ³   ³   ÀÄÄÄtmp
+³           ³   ³   ÃÄÄÄVCTargetsPath
+³           ³   ³   ³   ÀÄÄÄx64
+³           ³   ³   ³       ÀÄÄÄDebug
+³           ³   ³   ³           ÀÄÄÄVCTargetsPath.tlog
+³           ³   ³   ÀÄÄÄx64
+³           ³   ³       ÀÄÄÄDebug
+³           ³   ÃÄÄÄCMakeScratch
+³           ³   ÀÄÄÄpkgRedirects
+³           ÃÄÄÄflutter
+³           ³   ÀÄÄÄCMakeFiles
+³           ÃÄÄÄgenerated
+³           ³   ÀÄÄÄcloud_firestore
+³           ÃÄÄÄplugins
+³           ³   ÃÄÄÄcloud_firestore
+³           ³   ³   ÀÄÄÄCMakeFiles
+³           ³   ÀÄÄÄfirebase_core
+³           ³       ÀÄÄÄCMakeFiles
+³           ÀÄÄÄrunner
+³               ÀÄÄÄCMakeFiles
+ÃÄÄÄios
+³   ÃÄÄÄFlutter
+³   ÃÄÄÄRunner
+³   ³   ÃÄÄÄAssets.xcassets
+³   ³   ³   ÃÄÄÄAppIcon.appiconset
+³   ³   ³   ÀÄÄÄLaunchImage.imageset
+³   ³   ÀÄÄÄBase.lproj
+³   ÃÄÄÄRunner.xcodeproj
+³   ³   ÃÄÄÄproject.xcworkspace
+³   ³   ³   ÀÄÄÄxcshareddata
+³   ³   ÀÄÄÄxcshareddata
+³   ³       ÀÄÄÄxcschemes
+³   ÃÄÄÄRunner.xcworkspace
+³   ³   ÀÄÄÄxcshareddata
+³   ÀÄÄÄRunnerTests
+ÃÄÄÄlib
+³   ÃÄÄÄdata
+³   ³   ÃÄÄÄdatasources
+³   ³   ÃÄÄÄmodel
+³   ³   ÀÄÄÄrepositories
+³   ÃÄÄÄdomain
+³   ³   ÃÄÄÄrepositories
+³   ³   ÀÄÄÄusecases
+³   ÀÄÄÄpresentation
+³       ÃÄÄÄpages
+³       ÀÄÄÄwidgets
+ÃÄÄÄlinux
+³   ÀÄÄÄflutter
+³       ÀÄÄÄephemeral
+³           ÀÄÄÄ.plugin_symlinks
+ÃÄÄÄmacos
+³   ÃÄÄÄFlutter
+³   ³   ÀÄÄÄephemeral
+³   ÃÄÄÄRunner
+³   ³   ÃÄÄÄAssets.xcassets
+³   ³   ³   ÀÄÄÄAppIcon.appiconset
+³   ³   ÃÄÄÄBase.lproj
+³   ³   ÀÄÄÄConfigs
+³   ÃÄÄÄRunner.xcodeproj
+³   ³   ÃÄÄÄproject.xcworkspace
+³   ³   ³   ÀÄÄÄxcshareddata
+³   ³   ÀÄÄÄxcshareddata
+³   ³       ÀÄÄÄxcschemes
+³   ÃÄÄÄRunner.xcworkspace
+³   ³   ÀÄÄÄxcshareddata
+³   ÀÄÄÄRunnerTests
+ÃÄÄÄtest
+ÃÄÄÄweb
+³   ÀÄÄÄicons
+ÀÄÄÄwindows
+    ÃÄÄÄflutter
+    ³   ÀÄÄÄephemeral
+    ³       ÀÄÄÄ.plugin_symlinks
+    ³           ÃÄÄÄcloud_firestore
+    ³           ³   ÃÄÄÄandroid
+    ³           ³   ³   ÀÄÄÄsrc
+    ³           ³   ³       ÀÄÄÄmain
+    ³           ³   ³           ÀÄÄÄjava
+    ³           ³   ³               ÀÄÄÄio
+    ³           ³   ³                   ÀÄÄÄflutter
+    ³           ³   ³                       ÀÄÄÄplugins
+    ³           ³   ³                           ÀÄÄÄfirebase
+    ³           ³   ³                               ÀÄÄÄfirestore
+    ³           ³   ³                                   ÃÄÄÄstreamhandler
+    ³           ³   ³                                   ÀÄÄÄutils
+    ³           ³   ÃÄÄÄdartpad
+    ³           ³   ³   ÀÄÄÄlib
+    ³           ³   ÃÄÄÄexample
+    ³           ³   ³   ÃÄÄÄandroid
+    ³           ³   ³   ³   ÃÄÄÄapp
+    ³           ³   ³   ³   ³   ÀÄÄÄsrc
+    ³           ³   ³   ³   ³       ÃÄÄÄdebug
+    ³           ³   ³   ³   ³       ÃÄÄÄmain
+    ³           ³   ³   ³   ³       ³   ÃÄÄÄjava
+    ³           ³   ³   ³   ³       ³   ³   ÀÄÄÄio
+    ³           ³   ³   ³   ³       ³   ³       ÀÄÄÄflutter
+    ³           ³   ³   ³   ³       ³   ³           ÀÄÄÄplugins
+    ³           ³   ³   ³   ³       ³   ÃÄÄÄkotlin
+    ³           ³   ³   ³   ³       ³   ³   ÀÄÄÄio
+    ³           ³   ³   ³   ³       ³   ³       ÀÄÄÄflutter
+    ³           ³   ³   ³   ³       ³   ³           ÀÄÄÄplugins
+    ³           ³   ³   ³   ³       ³   ³               ÀÄÄÄfirebase
+    ³           ³   ³   ³   ³       ³   ³                   ÀÄÄÄfirestore
+    ³           ³   ³   ³   ³       ³   ³                       ÀÄÄÄexample
+    ³           ³   ³   ³   ³       ³   ÀÄÄÄres
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄdrawable
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄdrawable-v21
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄmipmap-hdpi
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄmipmap-mdpi
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄmipmap-xhdpi
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄmipmap-xxhdpi
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄmipmap-xxxhdpi
+    ³           ³   ³   ³   ³       ³       ÃÄÄÄvalues
+    ³           ³   ³   ³   ³       ³       ÀÄÄÄvalues-night
+    ³           ³   ³   ³   ³       ÀÄÄÄprofile
+    ³           ³   ³   ³   ÀÄÄÄgradle
+    ³           ³   ³   ³       ÀÄÄÄwrapper
+    ³           ³   ³   ÃÄÄÄintegration_test
+    ³           ³   ³   ÃÄÄÄios
+    ³           ³   ³   ³   ÃÄÄÄFlutter
+    ³           ³   ³   ³   ÃÄÄÄRunner
+    ³           ³   ³   ³   ³   ÃÄÄÄAssets.xcassets
+    ³           ³   ³   ³   ³   ³   ÃÄÄÄAppIcon.appiconset
+    ³           ³   ³   ³   ³   ³   ÀÄÄÄLaunchImage.imageset
+    ³           ³   ³   ³   ³   ÀÄÄÄBase.lproj
+    ³           ³   ³   ³   ÃÄÄÄRunner.xcodeproj
+    ³           ³   ³   ³   ³   ÃÄÄÄproject.xcworkspace
+    ³           ³   ³   ³   ³   ³   ÀÄÄÄxcshareddata
+    ³           ³   ³   ³   ³   ³       ÀÄÄÄswiftpm
+    ³           ³   ³   ³   ³   ³           ÀÄÄÄconfiguration
+    ³           ³   ³   ³   ³   ÀÄÄÄxcshareddata
+    ³           ³   ³   ³   ³       ÀÄÄÄxcschemes
+    ³           ³   ³   ³   ÀÄÄÄRunner.xcworkspace
+    ³           ³   ³   ³       ÀÄÄÄxcshareddata
+    ³           ³   ³   ³           ÀÄÄÄswiftpm
+    ³           ³   ³   ³               ÀÄÄÄconfiguration
+    ³           ³   ³   ÃÄÄÄlib
+    ³           ³   ³   ÃÄÄÄmacos
+    ³           ³   ³   ³   ÃÄÄÄFlutter
+    ³           ³   ³   ³   ÃÄÄÄRunner
+    ³           ³   ³   ³   ³   ÃÄÄÄAssets.xcassets
+    ³           ³   ³   ³   ³   ³   ÀÄÄÄAppIcon.appiconset
+    ³           ³   ³   ³   ³   ÃÄÄÄBase.lproj
+    ³           ³   ³   ³   ³   ÀÄÄÄConfigs
+    ³           ³   ³   ³   ÃÄÄÄRunner.xcodeproj
+    ³           ³   ³   ³   ³   ÃÄÄÄproject.xcworkspace
+    ³           ³   ³   ³   ³   ³   ÀÄÄÄxcshareddata
+    ³           ³   ³   ³   ³   ³       ÀÄÄÄswiftpm
+    ³           ³   ³   ³   ³   ³           ÀÄÄÄconfiguration
+    ³           ³   ³   ³   ³   ÀÄÄÄxcshareddata
+    ³           ³   ³   ³   ³       ÀÄÄÄxcschemes
+    ³           ³   ³   ³   ÃÄÄÄRunner.xcworkspace
+    ³           ³   ³   ³   ³   ÀÄÄÄxcshareddata
+    ³           ³   ³   ³   ³       ÀÄÄÄswiftpm
+    ³           ³   ³   ³   ³           ÀÄÄÄconfiguration
+    ³           ³   ³   ³   ÀÄÄÄRunnerTests
+    ³           ³   ³   ÃÄÄÄtest_driver
+    ³           ³   ³   ÃÄÄÄweb
+    ³           ³   ³   ³   ÀÄÄÄicons
+    ³           ³   ³   ÀÄÄÄwindows
+    ³           ³   ³       ÃÄÄÄflutter
+    ³           ³   ³       ÀÄÄÄrunner
+    ³           ³   ³           ÀÄÄÄresources
+    ³           ³   ÃÄÄÄios
+    ³           ³   ³   ÀÄÄÄcloud_firestore
+    ³           ³   ³       ÀÄÄÄSources
+    ³           ³   ³           ÀÄÄÄcloud_firestore
+    ³           ³   ³               ÃÄÄÄinclude
+    ³           ³   ³               ³   ÀÄÄÄcloud_firestore
+    ³           ³   ³               ³       ÃÄÄÄPrivate
+    ³           ³   ³               ³       ÀÄÄÄPublic
+    ³           ³   ³               ÀÄÄÄResources
+    ³           ³   ÃÄÄÄlib
+    ³           ³   ³   ÀÄÄÄsrc
+    ³           ³   ³       ÀÄÄÄutils
+    ³           ³   ÃÄÄÄmacos
+    ³           ³   ³   ÀÄÄÄcloud_firestore
+    ³           ³   ³       ÀÄÄÄSources
+    ³           ³   ³           ÀÄÄÄcloud_firestore
+    ³           ³   ³               ÃÄÄÄinclude
+    ³           ³   ³               ³   ÀÄÄÄcloud_firestore
+    ³           ³   ³               ³       ÃÄÄÄPrivate
+    ³           ³   ³               ³       ÀÄÄÄPublic
+    ³           ³   ³               ÀÄÄÄResources
+    ³           ³   ÃÄÄÄtest
+    ³           ³   ÀÄÄÄwindows
+    ³           ³       ÃÄÄÄinclude
+    ³           ³       ³   ÀÄÄÄcloud_firestore
+    ³           ³       ÀÄÄÄtest
+    ³           ÀÄÄÄfirebase_core
+    ³               ÃÄÄÄandroid
+    ³               ³   ÃÄÄÄgradle
+    ³               ³   ³   ÀÄÄÄwrapper
+    ³               ³   ÀÄÄÄsrc
+    ³               ³       ÀÄÄÄmain
+    ³               ³           ÀÄÄÄjava
+    ³               ³               ÀÄÄÄio
+    ³               ³                   ÀÄÄÄflutter
+    ³               ³                       ÀÄÄÄplugins
+    ³               ³                           ÀÄÄÄfirebase
+    ³               ³                               ÀÄÄÄcore
+    ³               ÃÄÄÄexample
+    ³               ³   ÃÄÄÄandroid
+    ³               ³   ³   ÃÄÄÄapp
+    ³               ³   ³   ³   ÀÄÄÄsrc
+    ³               ³   ³   ³       ÃÄÄÄdebug
+    ³               ³   ³   ³       ÃÄÄÄmain
+    ³               ³   ³   ³       ³   ÃÄÄÄjava
+    ³               ³   ³   ³       ³   ³   ÀÄÄÄio
+    ³               ³   ³   ³       ³   ³       ÀÄÄÄflutter
+    ³               ³   ³   ³       ³   ³           ÀÄÄÄplugins
+    ³               ³   ³   ³       ³   ÃÄÄÄkotlin
+    ³               ³   ³   ³       ³   ³   ÀÄÄÄio
+    ³               ³   ³   ³       ³   ³       ÀÄÄÄflutter
+    ³               ³   ³   ³       ³   ³           ÀÄÄÄplugins
+    ³               ³   ³   ³       ³   ³               ÀÄÄÄfirebasecoreexample
+    ³               ³   ³   ³       ³   ÀÄÄÄres
+    ³               ³   ³   ³       ³       ÃÄÄÄdrawable
+    ³               ³   ³   ³       ³       ÃÄÄÄdrawable-v21
+    ³               ³   ³   ³       ³       ÃÄÄÄmipmap-hdpi
+    ³               ³   ³   ³       ³       ÃÄÄÄmipmap-mdpi
+    ³               ³   ³   ³       ³       ÃÄÄÄmipmap-xhdpi
+    ³               ³   ³   ³       ³       ÃÄÄÄmipmap-xxhdpi
+    ³               ³   ³   ³       ³       ÃÄÄÄmipmap-xxxhdpi
+    ³               ³   ³   ³       ³       ÃÄÄÄvalues
+    ³               ³   ³   ³       ³       ÀÄÄÄvalues-night
+    ³               ³   ³   ³       ÀÄÄÄprofile
+    ³               ³   ³   ÀÄÄÄgradle
+    ³               ³   ³       ÀÄÄÄwrapper
+    ³               ³   ÃÄÄÄios
+    ³               ³   ³   ÃÄÄÄFlutter
+    ³               ³   ³   ÃÄÄÄRunner
+    ³               ³   ³   ³   ÃÄÄÄAssets.xcassets
+    ³               ³   ³   ³   ³   ÃÄÄÄAppIcon.appiconset
+    ³               ³   ³   ³   ³   ÀÄÄÄLaunchImage.imageset
+    ³               ³   ³   ³   ÀÄÄÄBase.lproj
+    ³               ³   ³   ÃÄÄÄRunner.xcodeproj
+    ³               ³   ³   ³   ÃÄÄÄproject.xcworkspace
+    ³               ³   ³   ³   ³   ÀÄÄÄxcshareddata
+    ³               ³   ³   ³   ÀÄÄÄxcshareddata
+    ³               ³   ³   ³       ÀÄÄÄxcschemes
+    ³               ³   ³   ÀÄÄÄRunner.xcworkspace
+    ³               ³   ³       ÀÄÄÄxcshareddata
+    ³               ³   ÃÄÄÄlib
+    ³               ³   ÃÄÄÄmacos
+    ³               ³   ³   ÃÄÄÄFlutter
+    ³               ³   ³   ÃÄÄÄRunner
+    ³               ³   ³   ³   ÃÄÄÄAssets.xcassets
+    ³               ³   ³   ³   ³   ÀÄÄÄAppIcon.appiconset
+    ³               ³   ³   ³   ÃÄÄÄBase.lproj
+    ³               ³   ³   ³   ÀÄÄÄConfigs
+    ³               ³   ³   ÃÄÄÄRunner.xcodeproj
+    ³               ³   ³   ³   ÃÄÄÄproject.xcworkspace
+    ³               ³   ³   ³   ³   ÀÄÄÄxcshareddata
+    ³               ³   ³   ³   ÀÄÄÄxcshareddata
+    ³               ³   ³   ³       ÀÄÄÄxcschemes
+    ³               ³   ³   ÀÄÄÄRunner.xcworkspace
+    ³               ³   ³       ÀÄÄÄxcshareddata
+    ³               ³   ÃÄÄÄweb
+    ³               ³   ³   ÀÄÄÄicons
+    ³               ³   ÀÄÄÄwindows
+    ³               ³       ÃÄÄÄflutter
+    ³               ³       ÀÄÄÄrunner
+    ³               ³           ÀÄÄÄresources
+    ³               ÃÄÄÄios
+    ³               ³   ÀÄÄÄfirebase_core
+    ³               ³       ÀÄÄÄSources
+    ³               ³           ÀÄÄÄfirebase_core
+    ³               ³               ÃÄÄÄinclude
+    ³               ³               ³   ÀÄÄÄfirebase_core
+    ³               ³               ÀÄÄÄResources
+    ³               ÃÄÄÄlib
+    ³               ³   ÀÄÄÄsrc
+    ³               ÃÄÄÄmacos
+    ³               ³   ÀÄÄÄfirebase_core
+    ³               ³       ÀÄÄÄSources
+    ³               ³           ÀÄÄÄfirebase_core
+    ³               ³               ÃÄÄÄinclude
+    ³               ³               ³   ÀÄÄÄfirebase_core
+    ³               ³               ÀÄÄÄResources
+    ³               ÃÄÄÄtest
+    ³               ÀÄÄÄwindows
+    ³                   ÀÄÄÄinclude
+    ³                       ÀÄÄÄfirebase_core
+    ÀÄÄÄrunner
+        ÀÄÄÄresources

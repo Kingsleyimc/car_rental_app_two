@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156349816591",
+    "project_id": "my-wonderful-project-999",
+    "storage_bucket": "my-wonderful-project-999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156349816591:android:a39bfdade2b8483f45a87a",
+        "android_client_info": {
+          "package_name": "com.kingsley.carrentalapptwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8BOXUqK4gHqEYd_clDsX0uZaitaFByA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
